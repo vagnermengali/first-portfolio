@@ -1,5 +1,5 @@
 <h1 align="center">
-  First Portfolio
+ First Portfolio
 </h1>
 
 [![Banner](https://github.com/vagnermengali/first-portfolio/blob/main/public/portfolio.webp)](https://first-portfolio-vagnermengali.vercel.app/)
@@ -11,9 +11,9 @@
 
 ---
 
-# Documentação em português
+# Documentação em Português
 
-Este é um meu primiero portfólio pessoal desenvolvido que agora esta publico para beneficiar desenvolvedores que ainda não têm seu portfólio ou desenvolvedores que desejam um portfólio já pronto. Foi criado para fins de estudo utilizando as seguintes tecnologias: Next.js, Styled Components, Framer Motion e TypeScript.
+Este é um meu primeiro portfólio pessoal desenvolvido que agora esta publico para beneficiar desenvolvedores que ainda não têm seu portfólio ou desenvolvedores que desejam um portfólio já pronto. Foi criado para fins de estudo utilizando as seguintes tecnologias: Next.js, Fullpage.js, Styled Components, Framer Motion e TypeScript.
 
 ## Tecnologias Utilizadas
 
@@ -21,12 +21,13 @@ Este é um meu primiero portfólio pessoal desenvolvido que agora esta publico p
 - **Styled Components**: Uma biblioteca para estilização de componentes React utilizando a técnica de CSS-in-JS.
 - **Framer Motion**: Uma biblioteca de animação para React.
 - **TypeScript**: Um superset do JavaScript que adiciona tipagem estática ao código.
+- **Fullpage.js**: Uma biblioteca para criar websites de página única com deslizamento suave entre seções.
 
 ## Rotas Disponíveis
 
-- **/home**: Página inicial do portfólio.
+- **/** : Página inicial do portfólio.
 - **/about**: Página sobre o autor ou informações da empresa.
-- **/work**: Página com projetos concluídos.
+- **/wrok**: Página com projetos concluídos.
 
 ## Instalação
 
@@ -36,28 +37,33 @@ Para executar este projeto localmente, siga as instruções abaixo:
 
    ```bash
    git clone https://github.com/vagnermengali/first-portfolio.git
+   ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
    cd first-portfolio
+   ```
 
 3. Instale as dependências:
 
    ```bash
    yarn install
+   ```
 
 4. Inicie o servidor de desenvolvimento:
 
    ```bash
    yarn dev
+   ```
 
 5. Acesse a aplicação no seu navegador através da rota:
 
    ```bash
    http://localhost:3000/
+   ```
 
-Acesse a aplicação no seu navegador através do seguinte endereço: [http://localhost:3000/](http://localhost:3000/). Explore os arquivos do projeto usando seu editor de código preferido e faça quaisquer alterações necessárias.
+Acesse a aplicação no seu navegador através do seguinte endereço: [http://localhost:3000/](http://localhost:3000/). Explore os arquivos do projeto utilizando o seu editor de código preferido e faça as alterações necessárias.
 
 ## Implantação
 
@@ -65,7 +71,7 @@ Este projeto está disponível em: [https://first-portfolio-vagnermengali.vercel
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou relatar problemas.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou reportar problemas.
 
 Se este projeto foi útil para você, considere deixar uma estrela (⭐) no repositório para apoiar o desenvolvimento.
 
@@ -73,11 +79,9 @@ Se este projeto foi útil para você, considere deixar uma estrela (⭐) no repo
 
 Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
----
-
 # Documentation in English
 
-This is my first personal portfolio developed that I am now publishing to benefit developers who do not yet have their portfolio or developers who want a ready-made portfolio. It was created for study purposes using the following technologies: Next.js, Styled Components, Framer Motion and TypeScript.
+This is my first personal portfolio that I have developed and is now public to benefit developers who do not yet have their portfolio or those who desire a ready-made portfolio. It was created for study purposes using the following technologies: Next.js, Fullpage.js, Styled Components, Framer Motion, and TypeScript.
 
 ## Technologies Used
 
@@ -85,10 +89,11 @@ This is my first personal portfolio developed that I am now publishing to benefi
 - **Styled Components**: A library for styling React components using the CSS-in-JS technique.
 - **Framer Motion**: An animation library for React.
 - **TypeScript**: A superset of JavaScript that adds static typing to the code.
+- **Fullpage.js**: A library for creating single-page websites with smooth scrolling between sections.
 
 ## Available Routes
 
-- **/home**: Portfolio's home page.
+- **/** : Portfolio's home page.
 - **/about**: Page about the author or company information.
 - **/work**: Page with completed projects.
 
