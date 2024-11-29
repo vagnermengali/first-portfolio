@@ -2,7 +2,7 @@
  First Portfolio
 </h1>
 
-[![Banner](https://github.com/vagnermengali/first-portfolio/blob/main/public/portfolio.webp)](https://first-portfolio-vagnermengali.vercel.app/)
+[![Banner](https://github.com/vagnermengali/first-portfolio/blob/main/public/assets/images/portfolio.webp)](https://first-portfolio-vagnermengali.vercel.app/)
 
 <div align="center">
    <a href="#documentação-em-português">Leia em Português |</a>
